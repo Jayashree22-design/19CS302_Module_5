@@ -1,13 +1,17 @@
 # EX 24 Create a structure program to read(empno,dept and basic pay) and store the data of 3 employees and calculate their Gross Salary(da =10% and HRA=30% from BP).
-## DATE:
+## DATE:11/05/2025
 ## AIM:
 To Create a structure program to read(empno,dept and basic pay) and store the data of 3 employees and calculate their Gross Salary(da =10% and HRA=30% from BP).
 
 ## Algorithm
 1.Start. 
+
 2.Define a variables.
-3.Read the value using scanf. 
+
+3.Read the value using scanf.
+
 4.Ask the user to make an input and print the answer.
+
 5.End.
 
 ## Program:
